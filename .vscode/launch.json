@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DonaloApplication<donalo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.donalo.donalo.DonaloApplication",
+            "projectName": "donalo",
+            "args": ""
+        }
+    ]
+}
