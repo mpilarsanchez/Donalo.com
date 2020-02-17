@@ -1,4 +1,4 @@
-package com.donalo.donalo.entidad;
+package com.donalo.donalo.entidades;
 
 import javax.persistence.Basic;
 import javax.persistence.Entity;
