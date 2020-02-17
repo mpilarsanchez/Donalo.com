@@ -1,4 +1,4 @@
-package com.donalo.donalo.enumeracion;
+package com.donalo.donalo.enumeraciones;
 
 public enum Seleccion {
 

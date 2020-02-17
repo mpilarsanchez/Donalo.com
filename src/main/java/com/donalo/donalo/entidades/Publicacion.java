@@ -1,4 +1,4 @@
-package com.donalo.donalo.entidad;
+package com.donalo.donalo.entidades;
 
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
@@ -10,7 +10,7 @@ import javax.persistence.OneToOne;
 
 import org.hibernate.annotations.GenericGenerator;
 
-import com.donalo.donalo.enumeracion.Seleccion;
+import com.donalo.donalo.enumeraciones.Seleccion;
 
 import lombok.Getter;
 import lombok.Setter;
